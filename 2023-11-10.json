@@ -1,0 +1,26 @@
+{
+  "name": "Lester Carpenter",
+  "age": 36,
+  "address": {
+    "street": "Bani Glen",
+    "city": "Osatiwre",
+    "state": "WI",
+    "zip": "08032"
+  },
+  "contact": {
+    "phone": "(839) 627-8494",
+    "servicePhone": "800157342"
+  },
+  "birthday": "1962-07-23T21:02:34.880Z",
+  "ip": "9.158.215.220",
+  "foo": "bar",
+  "profile": {
+    "about": "La vu ze ajaod vufodo nunic izuvu ir orovid pu ta cinitu caz zuf wejja ta. Vitcivot luzo holzopjas ovimafin gi veteg numbowda sospe cenic wefodfir vuj re reija uhorode pemo. Hotmuv pa sudde mejduwjuj wulofowa nalab ja juag dacimiz mij oguertih mizin tic uku riwvi bove. Jiczar dezivlut kes gol cabzajid erjo agu ta bifmiij mopob pofabe debob uk doho ce nin niilvi mamfeh. Rijew wa coheuk vadag tiod hil wuzacoh cu zu hu celengeg ile dafge wulunumom afa rene.",
+    "bio": "Nen uzobuj cu amosubup ridkogti dosnefwi aj naama kubbi gehas wopef kin cimoju fabkar uplempi dakefa. Hamige cevset fov tokimzo vautu vi luz lolbe vo jivuife dezucohod wiw jawsuti fuugi. Wucuj rivlobo miuzi nejci mawlowva nateg ojema kajofpit homu ali zedbup be pur mapbo zukel. Wegekagi mah kafbinu ogaleto lokazah teve ruharabat kecuh cobdojez gidzi ic vaflol givcata nafi futca oha. Job tidvege uhmimef riak piv hirecege kut serimo opa ac mifho umivalup ezocuvfaf liphigron rozta. Vero zuwzaj vaweve agjevuna kilbo venwo vir gokikmo egbev behkadwik ka zorobhu kiidniz jowuhi wafirsar sirtubap ov. Geufe di geupzu ubuido nogtidkaz ilu corbeiku wek ibumi rofdulo jigothad wokmorbud il ineamo taromub wezmaz."
+  },
+  "apiKey": "0f2f1f2043a45bfdd5f14db0d95765e382c77bc86300ae0f27fb85833315f17f",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
