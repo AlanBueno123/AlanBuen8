@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Campbell",
+  "age": 35,
+  "address": {
+    "street": "Riro Turnpike",
+    "city": "Ajhedtot",
+    "state": "MS",
+    "zip": "28554"
+  },
+  "contact": {
+    "phone": "(303) 460-8167",
+    "servicePhone": "800782329"
+  },
+  "birthday": "1993-03-31T22:03:40.833Z",
+  "ip": "82.120.253.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Seselko ciwo ne aljez wiveko zuisje juv vodijrub ha ji sage tegojpe ja maife. Mudne nidazfe togafu ed aksusfaw wa zunacbe filfupro difjazow bemlecig ju jeugja dat newejeb hilukus. Lahnafu maz ju oh ena hefezwu if zavurohak maawwil mecnar hok ujra okabam ketiz umdu tanilpof. Lugol ihli bekib enra vekpod hog ge nohu muijiini bin gig unije pofmeg vokimuwi.",
+    "bio": "Edari fegfol wonipvi ged niki go faneliaba urcav fug siwo mud haf fapgeso pu. Sid sozojcid cucmop aze ulpisve cov uggo utadulni nuckonbup coropcab ebfej mep wun. Pap zij vakaaze vi uwtocoh fopumat mu oci racwepfif dozzon jijo sosibima."
+  },
+  "apiKey": "637fb6a40f34d4ca5d93902f67c7ba5cfc59db5eabe3fbed3c5814e59891c9f0",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
