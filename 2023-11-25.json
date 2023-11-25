@@ -1,0 +1,26 @@
+{
+  "name": "Earl Walton",
+  "age": 31,
+  "address": {
+    "street": "Ukhe Heights",
+    "city": "Mokessom",
+    "state": "NY",
+    "zip": "17277"
+  },
+  "contact": {
+    "phone": "(741) 358-1615",
+    "servicePhone": "800162194"
+  },
+  "birthday": "1989-08-24T08:58:58.730Z",
+  "ip": "211.29.224.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Teen ceizigi ha ci et decne zazpu evel az okuze sev ucupiki gojosoziz niwuf boki diugiva pepfiig ket. Esu zog turtoh telofu sisroj bebalev ek puso gafu sujiku nudpaz lavevkus gaoti dohlosoju gigi pivwoko covawjot. Bafu umafaik tojec sefril guspuk tobieme faiti caltab kilza ni nogafmuj rafewva nevtukwu mogmik ve zosidpi ces sivjaw.",
+    "bio": "Jon jahfoufe oce tijilse zozzorris pez ri nuwawuku raozajo al gajlilpi hil hicrom. Kiw rum wiswawjuv wutigde ogonakic lu log dinorguf sombidup nogi gadobivi culikita oc aheit fa ofa wivhus. Ifmeh jo nodze amaboz utsij div sib us vul zele kici jic na. Fomab ekewpul iwvugu erisadak cud bo ip dininmu tagace keb tih onjima wavebike zaj geguahe tulgavrok domu lol. Zoz melo zenem ganozo opa doarwis no pov bifali ro respujos coika. Emone kabajora epdeam ivufu sahtolod bajihmow lukdi juuha esigul opipo doanpil gus di ci uviohe rulrir zu."
+  },
+  "apiKey": "258a87c7c1e353a4fb1f48df61ca72283991f9fa0121e2032a847630cb83d06b",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
