@@ -1,0 +1,26 @@
+{
+  "name": "Angel Fletcher",
+  "age": 48,
+  "address": {
+    "street": "Nonati Pass",
+    "city": "Celcunil",
+    "state": "CT",
+    "zip": "42486"
+  },
+  "contact": {
+    "phone": "(823) 485-4112",
+    "servicePhone": "800795329"
+  },
+  "birthday": "1981-12-09T03:33:04.877Z",
+  "ip": "219.103.153.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu ekjohif sav lu vimgoho edo sul cooreza lietli asubib robhadgop pissi it jojmovi fe. Kuhu cawku cecje hunkam cozoj ti fuh ebocajgow fi cij dij el. Iggaafi lotit awefo zel fe wedidgo go fihod pepabvo nucru hogif neraz sigpakuc en haraso gi.",
+    "bio": "Udo ura vestojus ji vofug zaf forbuv labecagih siz ka ripesi gaici eb veme kubumbiv wa. Koano jojal ejafug tas ozo ali jacajwik bek uz ojuid wizu icufac utow ramcub. Faccifat lanitre ari ha nozcovo sedaawa lah buvmubti an deov am wowkom. Kes bubuuta buzus jehcihas natgug gag hipfekmuw azca govugat owipova tiw ka."
+  },
+  "apiKey": "0cba80fcea6f2f9fbdeeb9987f93cb2310fc4be47c0a9dc10b064fefd8ebcf8e",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
