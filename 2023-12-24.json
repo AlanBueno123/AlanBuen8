@@ -1,0 +1,26 @@
+{
+  "name": "Mike Hubbard",
+  "age": 20,
+  "address": {
+    "street": "Micaj Highway",
+    "city": "Cuvzarkiv",
+    "state": "KS",
+    "zip": "55419"
+  },
+  "contact": {
+    "phone": "(281) 662-4972",
+    "servicePhone": "800337527"
+  },
+  "birthday": "1986-04-18T03:09:08.938Z",
+  "ip": "244.86.208.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Tejotici petiw femvanim tu hupnacu zuhe uv faghehin civuh fifep uhecepij lu. Gotvu cij cucobeoka mo biha hivfa uguirotet cogpu foeno ene orusal jekuhu. Lelco zeh tunci ilcuj row ok nais koolej selru li nozjaz ma itvo du ja. Lakhir rol gunubome udkuc wu ojozof bihhuhu wupukiho jototu olizepe uk pe reha.",
+    "bio": "Rim li ivo buhaju vowo re do duvcobe tivhiriz nutdiewo udenbug ciwhuw tuv gawohoje. Haar benza dazihab rebekve olofi ca ono dokja zi pu zaufiup kikosam. Unule raserdi kiga eg otesusip zessah eto ozel totlelce wepuz vizipeji nipmeg ta."
+  },
+  "apiKey": "e7c121188358d9f8c930e9089fd80f154e2683c9afa3ca95688d1a6e39ef1e76",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
