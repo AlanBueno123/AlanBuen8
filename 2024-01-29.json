@@ -1,0 +1,26 @@
+{
+  "name": "Betty Parker",
+  "age": 23,
+  "address": {
+    "street": "Jirek Pass",
+    "city": "Nikzilo",
+    "state": "IA",
+    "zip": "02330"
+  },
+  "contact": {
+    "phone": "(975) 686-8664",
+    "servicePhone": "800834145"
+  },
+  "birthday": "1990-05-02T16:50:20.432Z",
+  "ip": "213.232.157.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Puvbebe na bugpoate tef pehroabu ripaj vaucaav fiigduj edovodig ibitih wetonawa ofepum erod ho tod pinar go ini. Ro ho savnij domuvi opburot suvi bameknak amlabij mohtefa zivef efereozo je am. Peiceila rambo sa ke cuzdoak sa toguvto do isuih ac se utuzuzsu miuh cowata.",
+    "bio": "Bazluzhol sage catas pen beb rotgaas egriglu buj nela etibem tapez zomzujcoz tapotkaf upuole du nes he. Ameciprep wi asole lunro utlaeb guurev powu sam hunzu cul kadizo mufitcul hik. Cegmav juzen jetuz norvoc jas bop korunuz heta eca kupubvef jebja net. Jiren fa ehjolat usowu ita rotefpe bakuc hes kiri colormuc cudaz mot woan colvef gegeh."
+  },
+  "apiKey": "a7db8659f8475220a02f797b8dba8fce04cdea7311e962634579b2bf18144608",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
