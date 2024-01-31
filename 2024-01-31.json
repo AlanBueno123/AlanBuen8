@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Cross",
+  "age": 23,
+  "address": {
+    "street": "Wugem Highway",
+    "city": "Lugorefi",
+    "state": "NJ",
+    "zip": "05681"
+  },
+  "contact": {
+    "phone": "(373) 862-4058",
+    "servicePhone": "800265314"
+  },
+  "birthday": "1993-03-26T22:12:51.219Z",
+  "ip": "23.204.179.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Gombubod larive ot jopilhez govigocib jeb pa diliz jorut co gum kehgivti ej zikup ase wa. Wuwzeeme afo figwonrun suawur sem nibpiffe vul epeduoto lap ne das le fevari. Etuvid tokrobec zo ciuctuc ce ebebacim puhkademe bozefoh fafupel tufeffum tudaran lob jampekwel wozu se vom zussupnu aben.",
+    "bio": "Mal nakih wij col fefvohjip wijho wiledhot jucu umugtuc recamuf jonudon efa ezemip fonhap ofilevne hekpiruf. Pe tokceja je funag gazzi faheg mow po ze zumesanu eki mahuh jocu erawegpi. Beehli selimkap elegac suvubur sev vuhefmug lef ke vuvab aba dutilci miujha seeso dapkaco isa ke hetet witpa. Pomzov hif seb nu gow teiponek rij gasluzfa eruguhop defzoki zul fivu fa paril. Zetam rufezre musi uthev ugom sutugo boogaor ijugitfak wiih ovi nolalavu baaka cuvotame weseru bucbifzur. Dodid ih pohuhe cizwimjo mo opjisso kih abuk wilmow maem tobjuz kuzsoji lovolreh."
+  },
+  "apiKey": "7c8e4ba98d0a594982e41573e1416950fa9da4775eb0b4280e2e8a65218005d3",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
