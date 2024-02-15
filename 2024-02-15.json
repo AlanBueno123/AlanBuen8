@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Vega",
+  "age": 21,
+  "address": {
+    "street": "Zefde Key",
+    "city": "Hemuzdec",
+    "state": "CA",
+    "zip": "21279"
+  },
+  "contact": {
+    "phone": "(222) 402-5584",
+    "servicePhone": "800488145"
+  },
+  "birthday": "2000-02-22T03:31:12.759Z",
+  "ip": "27.191.70.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Vazco to jiun mirwo uze cus robuv fihdo tefilo ce cines wovjop zov wupid fulif neiko cemutan. Amhus setpe fam haj dasmat jocud jogculson lupilaj awfodgu bal mozoba ruw isruijo sazo uvisol obievogi foova. Anfum luuze lab vumpo patnatzig fubazahe raptakuf najpug zipje rapje holip tu.",
+    "bio": "Ebusamo fudmejliw faz ja womeveru eluvawlu puag micwoli iga otaga hezivobe zimjo dal bu rih cek. Bafba hut muf pu omasetsa jigkezal imu nenakec ju bogzu ba gi we. Upame ijpade unaminiju ura zibo rih lejrod calaluku izicu runvucoc aztakis ge."
+  },
+  "apiKey": "d35e1bc069d3628df51286b0b5be6fc584f9b3eb1cb1b8b532e2eda19f1c85b7",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
