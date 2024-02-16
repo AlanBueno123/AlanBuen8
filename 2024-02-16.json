@@ -1,0 +1,26 @@
+{
+  "name": "Scott Davidson",
+  "age": 28,
+  "address": {
+    "street": "Hufrom Way",
+    "city": "Abalurlo",
+    "state": "ME",
+    "zip": "73502"
+  },
+  "contact": {
+    "phone": "(523) 631-8287",
+    "servicePhone": "800257146"
+  },
+  "birthday": "1970-05-01T12:00:51.055Z",
+  "ip": "239.97.240.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Seefi fotbal okuasalam of liz beh calawle cakgabo wuipu cizhabko dajed tomemhec jijif jige firu. Ti goleuc rahot ok te isagor souko ma ofivipis ehhoap fek vesufal mosgul. Nun warro namhijah evomocel nalamse ewfogow ve posoza la wim kiwda kuju diluga dupzutumi rij. Odapofo atvacegu ifiutidu cap oja cifbamel bu rokjog zisazmuc jaewwud dib vohaj najed jaipased.",
+    "bio": "Susmemip bobapa ifvi odzaj tatwi duolvi nomcaz of elrahwu iboik egpumlu hed ululoblov bokoz. Voav kovfucej anolo vegaci goawipi diiw tegoeko gurulwuc uneas awe av viezval nerek peig erogaru rakafawa. Izranir gojwi rutjov goj ubuma eromug insa disaw ovowubwov kekonbi afdufa wousaiv. Pig lecasu ele bazirder cawekit sim gemim waukju ice wawofnid guna zafurwo fu popuh gohemiw furepaj miv ov. Gijemumo ik deg cafta zover mukdarle cipriwu jepzop ihe tubopefo detdivep suv do."
+  },
+  "apiKey": "afc156dbd3d814ee70a63f607e332c23e1d8d036385af5c6e3472f6aecbca5f5",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
