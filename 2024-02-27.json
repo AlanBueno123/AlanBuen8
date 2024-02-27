@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Cooper",
+  "age": 19,
+  "address": {
+    "street": "Sauh Parkway",
+    "city": "Weuwkib",
+    "state": "IL",
+    "zip": "06452"
+  },
+  "contact": {
+    "phone": "(352) 985-3322",
+    "servicePhone": "800594251"
+  },
+  "birthday": "1966-02-14T09:51:30.498Z",
+  "ip": "12.238.28.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihpucij ekozu ishori fifo vizo mipehho jomzuhu how pijus ektasfo ejupe sekawra ektetu ohbuuli zitbatik joge. Gummuput ge hipdawej toznahe me jiwubte cez nir voomliw raduk sul rutuh pecinihu bogiher saldosvag wehez. Ig tipefviw cioka ertoku jefdik algicli sof hacev inuwojfu bu faklib fajoncu fa lidob makducka ku zunnew.",
+    "bio": "Bovokni ciuku tibafci fiiz caw lun bulgo co ja uvozefu butab jorzipzo lejagag kipzaef meru. Jeufuin uraipumit te ejkeveg miod zeanout ribfuwhi cewpul linkut mid epipug ca gimunu ridu mah. Ji zerhuzbiv up sod peve lalil emfa vadaveko jo ezataboc nup meduser."
+  },
+  "apiKey": "e0b7bb09b0cb21414cfe0f08a2f1770295ce282c9e49d010c05ab4fbbb4cd191",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
