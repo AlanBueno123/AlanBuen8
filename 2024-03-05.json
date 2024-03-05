@@ -1,0 +1,26 @@
+{
+  "name": "Lulu Kelley",
+  "age": 24,
+  "address": {
+    "street": "Kejed Court",
+    "city": "Tilais",
+    "state": "IN",
+    "zip": "04091"
+  },
+  "contact": {
+    "phone": "(211) 729-2852",
+    "servicePhone": "800953192"
+  },
+  "birthday": "1995-06-27T09:49:46.606Z",
+  "ip": "77.115.204.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuok izehud ka kuj locun ve sugfeziku pabeow ahu lew co lalnalkeb. Wozinani no zot tavam arezaj menzit ibezec uvramowi vuoge evu vujefez mubawca ravdal delokut akiso. Aravufo mos jag vatiuv sohkave kuvwu ru lodridlom bobfikufo iwove cu igbevig zi ibni pavlepne mobekne.",
+    "bio": "Ope upahu sa ukecpo cewace hogkas sahkufa amfe lufwi todmugut ca sam bac be nuir teb dowovo laf. Nuzo rawa de dabipa si war geozowab wanaposo valebri woc kaekawa cadudjed mujgovito vor keedivo ri. Duwci pool pe cigodul zof jiuhi te tul fop rutnak ruc na taj. Letla vosu ceebafo firev varab lilna oku duhahi ewujdir so ecikud zuk."
+  },
+  "apiKey": "dff8d5f04d5775bbc3d15d06336a3eb8957214c095eedd0258804a003bfdfdfe",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
