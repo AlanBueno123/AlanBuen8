@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Little",
+  "age": 34,
+  "address": {
+    "street": "Cumza Grove",
+    "city": "Dojilo",
+    "state": "FL",
+    "zip": "50791"
+  },
+  "contact": {
+    "phone": "(515) 535-9091",
+    "servicePhone": "800127372"
+  },
+  "birthday": "1974-01-02T05:58:07.326Z",
+  "ip": "95.202.106.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Fifuk de jakmu imu hevji nosol okifor fus zulfa ti hivaviro uno. Za radopa cu muokeib ego wiliczab dumce liele mic fupob ju paf wiw jelhujpus akeha vavuah. Omujabva bauhmal otore kehha ki he boza anloifi iteno afsak leb ew. Azovuwpo cutod javo be ropovon amujuhi japereuv vasi er femcirul ke ewhe ocaurupe tisfa luecegod.",
+    "bio": "De ve vir aw gurmaesu netur ziwejaw obibhi riava riruav ge mefeav. Kuwvu us hupabi kucsi saser owjowo renihe amwagep luche ivzo ep ega ge zejza nig. Er dihihiw arlaje hip hir pah gunzihihu bo bih zibgarwo wut ohpuz."
+  },
+  "apiKey": "562e0786075dd46d2c708ea0c40f8d802cfa2450130f608052a855a300426fa4",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
