@@ -1,0 +1,26 @@
+{
+  "name": "Ina Brewer",
+  "age": 59,
+  "address": {
+    "street": "Gapas Park",
+    "city": "Jajitzeh",
+    "state": "CA",
+    "zip": "32750"
+  },
+  "contact": {
+    "phone": "(542) 213-5791",
+    "servicePhone": "800291344"
+  },
+  "birthday": "1987-04-28T02:45:56.730Z",
+  "ip": "220.106.4.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewbovfo opuve kuha mareib wuwifbac caj wad alhehkok ga golfe rumukiwe cewlubir dum gokepjo onjesas. Mapive ru upoifi lo fetemal sij semomdap cip fadhalref wamagu soc me zi wot ude. Mi guk sivumi linut jof tuhelgi ropoogo vaw iwzih mimilica be caw maf ferfehu re.",
+    "bio": "Biput zakekuwap jerharsi zo cumsurro mu fupi loca devwaguh alirif fi po ikcisjar. Kowudvu ro cuzi ced sa cehighu usgiz ezicefu tal mu bemgog poaraca igi kocenoz boztin zodlowfib valwuaw ocaup. Vep kifeza uw uku iwguki pu kata evicu pucguhba abikame risepaho atogozfam matbadfaj tac zunheas."
+  },
+  "apiKey": "08d2650f184af2ee9d1e997919c347daf3cfcb58bdd5a0fb59cf4600c32f2907",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
