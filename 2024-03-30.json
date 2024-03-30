@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Jenkins",
+  "age": 24,
+  "address": {
+    "street": "Daitu Terrace",
+    "city": "Siluvud",
+    "state": "MS",
+    "zip": "77549"
+  },
+  "contact": {
+    "phone": "(619) 991-5171",
+    "servicePhone": "800164974"
+  },
+  "birthday": "1974-04-21T02:19:01.306Z",
+  "ip": "52.112.110.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Oku onoikbe gaus ojjelej bibug dim isabigo asvaiz difu dezli lo turgov ofohos wu dowipe jaigo if mil. Vuhke mu itohu ki wivaf podatdi nodetelir okkajev zi wek ferdi dedlew wobnizav te zuecto zi. Atde aw cag pamozi wovju itfocpa bulfin vatgodfo nanuvak be podul kiag pol visangaj vepwu agnetam kago cocwir.",
+    "bio": "Sozket taci jut gafepwop dogzuwo usa zebivo dohekci kuj banwe ti ikuzaje lo wifvo vibu ok lorsik. Ivazi ejsi gis hi tahetat pakko sufhedu iperecto gisubi olip robtuha so daes. Pu afa ohenubiri pi karto razjew jutfus uge jitfu zolewi iniel is. Una huwofo nuguw ato gem korek rofja ostofo udubocik camid ha ral vip unfi nejtula nojuk nejo pafho. Muf bikno umetahez debudtuz kidocu ugi dofpocad no aj ehbida hir je cazjoawu zodgitduc umaga. Fit warzime fofupcin nanjilak rawlovife vuptig uti imcom pamwugwe bazdajbeh levvahtov higefo vi."
+  },
+  "apiKey": "cc3b4c43d0f7af98501f5f7c74459abfa9168a2b6a01b84fbfdf3f526e8bc31f",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
